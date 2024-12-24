@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="rest_framework.renderers.jsonRenderer" />
+          <option value="company.models.Login.*" />
+          <option value="manage.*" />
+          <option value="main.*" />
+          <option value="main.matplotlib" />
+          <option value="forecast.years" />
+          <option value="forecast.list_train" />
+          <option value="forecast2.number_to_one_hot" />
+          <option value="forecast2.year_all" />
+          <option value="forecast2.date_to_enc" />
+          <option value="forecast2.week" />
+          <option value="forecast2.days" />
+          <option value="forecast2.years" />
+          <option value="forecast2.list_train" />
+          <option value="forecast2.months" />
+          <option value="forecast2.cur_season" />
+          <option value="forecast2.season" />
+          <option value="forecast2.appeding" />
+          <option value="forecast2.day" />
+          <option value="forecast2.column" />
+          <option value="forecast2.a" />
+          <option value="forecast2.list_date" />
+          <option value="forecast2.holiday" />
+          <option value="fbprophet" />
+          <option value="cv2.waitkey" />
+          <option value="cv2.destroyAllwindows" />
+          <option value="datetime.timezone.now" />
+          <option value="scrap.scrapapp.management.commands.scrape_data.scrapapp" />
+          <option value="billing_system1.billing_app.management.commands.load_dummy_data.billing_app" />
+          <option value="dockapp.views.urlpatterns" />
+          <option value="documents.forms.DEPARTMENT_CHOICES" />
+          <option value="sodexo_refund.views" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
